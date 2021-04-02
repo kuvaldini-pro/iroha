@@ -6,9 +6,9 @@
 #ifndef IROHA_MOCK_MUTABLE_FACTORY_HPP
 #define IROHA_MOCK_MUTABLE_FACTORY_HPP
 
-#include "ametsuchi/mutable_factory.hpp"
-
 #include <gmock/gmock.h>
+
+#include "ametsuchi/mutable_factory.hpp"
 
 namespace iroha {
   namespace ametsuchi {
